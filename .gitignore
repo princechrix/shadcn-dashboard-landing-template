@@ -15,8 +15,6 @@ out/
 dist-ssr/
 
 # Environment variables
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -86,3 +84,4 @@ storybook-static
 
 # Deployment scripts (contain server-specific paths)
 *.env.production
+config.bat
